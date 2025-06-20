@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CollsionManager", "CollsionManager.vcxproj", "{020F0480-E916-447A-AB62-ECC85B4D714A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{020F0480-E916-447A-AB62-ECC85B4D714A}.Debug|x64.ActiveCfg = Debug|x64
+		{020F0480-E916-447A-AB62-ECC85B4D714A}.Debug|x64.Build.0 = Debug|x64
+		{020F0480-E916-447A-AB62-ECC85B4D714A}.Debug|x86.ActiveCfg = Debug|Win32
+		{020F0480-E916-447A-AB62-ECC85B4D714A}.Debug|x86.Build.0 = Debug|Win32
+		{020F0480-E916-447A-AB62-ECC85B4D714A}.Release|x64.ActiveCfg = Release|x64
+		{020F0480-E916-447A-AB62-ECC85B4D714A}.Release|x64.Build.0 = Release|x64
+		{020F0480-E916-447A-AB62-ECC85B4D714A}.Release|x86.ActiveCfg = Release|Win32
+		{020F0480-E916-447A-AB62-ECC85B4D714A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {875A7BDA-EEE3-429E-89D3-D7D416171066}
+	EndGlobalSection
+EndGlobal

@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+.vs/
+CollsionManager/x64/
+x64/
+Log.txt
